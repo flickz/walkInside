@@ -69,7 +69,7 @@ class Layout extends React.Component {
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
           {` . `}
-          <a href="https://www.github.com/flickz/walkInside-fun">Source code</a>
+          <a href="https://github.com/flickz/walkInside">Source code</a>
         </footer>
       </div>
     )
